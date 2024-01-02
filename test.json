@@ -2,5 +2,5 @@
   "name": "TestToken",
   "symbol": "TEST",
   "description": "This is test description",
-  "image": "ipfs://bafybeiafhixwr24z5qwc2eflhta5dyyasofw3z7fezowwtdx7mwgbytbme/download.png"
+  "image": "https://raw.githubusercontent.com/Robby3082/token2022/main/test.png"
 }
